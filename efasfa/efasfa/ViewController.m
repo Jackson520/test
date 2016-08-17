@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"阿斯顿·");
+    NSLog(@"asdfa");
 
     // Do any additional setup after loading the view, typically from a nib.
 }
